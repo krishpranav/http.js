@@ -47,5 +47,7 @@ async function postResponse() {
 postResponse();
 ```
 
+**NOTE** DOCUMENTATION IS STILL IN UNDERDEVELOPMENT STAY TUNED TO DOCUMENTING MORE FEATURESSS!!!
+
 ## License:
 - http.js is licensed under [MIT-License]()
